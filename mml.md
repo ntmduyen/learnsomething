@@ -37,6 +37,11 @@ Link to book https://mml-book.github.io/book/mml-book.pdf
     
     ** Row-Echelon Form: A matrix is in row-echelon form if
     - All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
-    - Looking at nonzero rows only, the first nonzero number from the left (also called the pivotor the leading coefficient) is always strictly to the pivot leading coefficient right of the pivot of the row above it.
+    - Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the pivot leading coefficient right of the pivot of the row above it.
 
     ** Basic and Free Variables: The variables corresponding to the pivots in the row-echelon form are called basic variables and the other variables are free variables.
+    
+    ** An equation system is in reduced row-echelon form (also: row-reduced echelon form or row canonical form) if
+    - It is in row-echelon form.
+    - Every pivot is 1.
+    - The pivot is the only nonzero entry in its column.
