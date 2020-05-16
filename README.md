@@ -4,4 +4,5 @@
 - [ ] 500 Lines or Less
 - [ ] Algorithms to Live By: The Computer Science of Human Decisions
 
-# Research Topics:
+# Research Topics
+- [ ] Quantum Computing
