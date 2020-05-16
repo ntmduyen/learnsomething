@@ -4,4 +4,4 @@
 - [ ] 500 Lines or Less
 - [ ] Algorithms to Live By: The Computer Science of Human Decisions
 
-# Skills
+# Research Topics:
